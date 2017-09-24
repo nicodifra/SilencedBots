@@ -35,6 +35,7 @@ Annoyances
 Irrelevance
 -----------
 * `IE ?[0-9]+` — Internet Explorer ([@jordanekay](http://twitter.com/jordanekay))
+* `^(https?\:\/\/)?((www\.)?youtube\.com|youtu\.?be)\/.+$` - Tweets that only contain Youtube links. ([@__n1c0](http://twitter.com/__n1c0))
 
 Duplicate mentions
 -----------
